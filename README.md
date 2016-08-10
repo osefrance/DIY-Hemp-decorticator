@@ -1,0 +1,2 @@
+# DIY-Hemp-decorticator
+This Decorticating Platform is especially dedicated to prepare long textile hemp fibres. That means the Decorticating Platform is integrating different phases and sequences of a whole complex process for the long textile hemp fibres preparation, while it is integrating also different forks and shortcuts expected to prepare technical fibres and compatible fibres for pulp industry.
