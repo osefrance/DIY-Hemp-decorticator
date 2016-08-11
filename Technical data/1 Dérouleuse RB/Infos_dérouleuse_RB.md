@@ -1,13 +1,13 @@
-## 1 Dérouleuse RB
+## 1 DÃ©rouleuse RB
 
-### Vue perspective dérouleuse
-![alt text](https://github.com/osefrance/DIY-Hemp-decorticator/images/ligne_au_5_aout_028.JPG "perspective dérouleuse")
+### Vue perspective dÃ©rouleuse
+![perspective dÃ©rouleuse](DIY-Hemp-decorticator/images/ligne_au_5_aout_028.JPG "perspective dÃ©rouleuse")
 
-Sur ses pieds rehaussés, hauteur arbre de sortie des pailles 930 mm. Possibilité de relever les pieds aval de 50, 100,150 mm si nécessaire <br />
-Coté gauche vue sur support motoréducteur et arbre entrainé. <br />
-2 positions de pignons possibles coté gauche : 
-* un premier pour entrainement de l’arbre de la dérouleuse, 
-* un second pour transmission secondaire vers l’élément Batteur de paille.
+Sur ses pieds rehaussÃ©s, hauteur arbre de sortie des pailles 930 mm. PossibilitÃ© de relever les pieds aval de 50, 100,150 mm si nÃ©cessaire <br />
+CotÃ© gauche vue sur support motorÃ©ducteur et arbre entrainÃ©. <br />
+2 positions de pignons possibles cotÃ© gauche : 
+* un premier pour entrainement de lâ€™arbre de la dÃ©rouleuse, 
+* un second pour transmission secondaire vers lâ€™Ã©lÃ©ment Batteur de paille.
 
 ### Plaque constructeur
-![alt text](https://github.com/osefrance/DIY-Hemp-decorticator/images/ligne_au_5_aout_029.JPG "Plaque constructeur")
+![Plaque constructeur](https://github.com/OSE-Lille/DIY-Hemp-decorticator/raw/master/images/ligne_au_5_aout_028.JPG "Plaque constructeur")
