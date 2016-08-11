@@ -3,7 +3,7 @@
 ### Vue perspective dérouleuse
 ![perspective dérouleuse](https://github.com/OSE-Lille/DIY-Hemp-decorticator/raw/master/images/ligne_au_5_aout_028.JPG =250x50)
 
-<img src="https://github.com/OSE-Lille/DIY-Hemp-decorticator/raw/master/images/ligne_au_5_aout_028.JPG" alt="Drawing" style="width: 200px;"/>
+<img src="https://github.com/OSE-Lille/DIY-Hemp-decorticator/raw/master/images/ligne_au_5_aout_028.JPG" alt="Drawing" style="width: 100px;"/>
 
 Sur ses pieds rehaussés, hauteur arbre de sortie des pailles 930 mm. Possibilité de relever les pieds aval de 50, 100,150 mm si nécessaire <br />
 Coté gauche vue sur support motoréducteur et arbre entrainé. <br />
